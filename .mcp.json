@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "apogee": { "type": "http", "url": "https://app.apogee.ad/mcp" }
+  }
+}

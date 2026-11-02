@@ -1,0 +1,17 @@
+{
+  "name": "apogee",
+  "version": "1.0.0",
+  "description": "Launch and manage Meta, TikTok and Snapchat ads in bulk with Apogee: daily performance briefs, launches from a Drive folder, pausing losing ads, moving winners across platforms, and what customers say in ad comments. Nothing runs without your OK.",
+  "author": {
+    "name": "APOGEE SAS",
+    "email": "hello@apogee.ad",
+    "url": "https://apogee.ad"
+  },
+  "homepage": "https://apogee.ad/developers/mcp",
+  "license": "MIT",
+  "keywords": [
+    "apogee",
+    "apogee ads",
+    "apogee mcp"
+  ]
+}
