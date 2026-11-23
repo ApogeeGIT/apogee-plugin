@@ -9,7 +9,11 @@
     "url": "https://apogee.ad"
   },
   "homepage": "https://apogee.ad/developers/mcp",
+  "repository": "https://github.com/ApogeeGIT/apogee-plugin",
+  "documentationUrl": "https://apogee.ad/developers/mcp",
+  "supportUrl": "https://apogee.ad/contact",
   "privacyPolicyUrl": "https://apogee.ad/en/legal/privacy",
+  "termsOfServiceUrl": "https://apogee.ad/en/legal/terms",
   "license": "MIT",
   "keywords": [
     "apogee",
